@@ -674,7 +674,7 @@ progress {
 }
 
 div .image-wrapper {
-  display: flex;
+  display: inline-flex;
   animation: scroll 10s linear infinite;
   padding: 10px;
 }
